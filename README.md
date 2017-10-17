@@ -1,0 +1,1 @@
+A simple blogging web app developed with Ruby on Rails
